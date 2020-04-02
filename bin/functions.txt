@@ -1,0 +1,5 @@
++=functions.AdditionFunc
+-=functions.SubtractionFunc
+*=functions.MultiplicationFunc
+/=functions.DivisionFunc
+sin=functions.SinFunc
